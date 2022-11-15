@@ -1,4 +1,4 @@
-# Infinite-reddit-scroll"
+# Infinite-reddit-scroll
 
 ### Run Project
 
